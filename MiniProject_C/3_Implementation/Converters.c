@@ -61,7 +61,7 @@ int main()
         {
             printf("Please enter the Celcius: \n");
             scanf("%f", &usrinputC);
-            kelvinToCelcius = usrinputK + 273.15;
+            celciusTokelvin = usrinputC + 273.15;
             printf("Celcius: %f", celciusTokelvin);
         }
 
