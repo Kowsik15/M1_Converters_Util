@@ -11,24 +11,24 @@ int main()
     float usroutputKC, usrinputK, usroutputK; // Usr gives values for Kelvin
 
     float fahrenheitToCelcius(float t1) { return ((9.0 / 5.0) * t1 + 32); }
-    // variable that stores the converted F->C;
+    // function that stores the converted F->C;
 
     float celciusToFahrenheit(float t2) { return ((t2 - 32) * (5.0 / 9.0)); }
-    // variable that stores the converted C->F;
+    // function that stores the converted C->F;
     float kelvinToCelcius(float t3) { return (t3 - 273.15); }
-    // variable that stores the converted K->C;
+    // function that stores the converted K->C;
     float celciusToKelvin(float t4) { return (t4 + 273.15); }
-    // variable that stores the converted C->K;
+    // function that stores the converted C->K;
 
     float usrinputUSDtoEuro, usrinputUSDtoJPY, usrinputUSDtoRMB;
     float usroutputUSDtoEuro, usroutputUSDtoJPY, usroutputUSDtoRMB;
 
     float USDtoEuro(float c1) { return (c1 * 0.87); }
-    // Usr gives values for for USD to EURO;
+    // function to store USD to EURO;
     float USDtoJPY(float c2) { return (c2 * 111.09); }
-    // Usr gives values for for USD to JPY;
+    // function to store USD to JPY;
     float USDtoRMB(float c3) { return (c3 * 6.82); }
-    // Usr gives values for for USD to RMB;
+    // function to store USD to RMB;
 
     float usrinputOunce, usroutputPound;
     // Usr gives values for for Ounce;
