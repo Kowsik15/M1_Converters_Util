@@ -8,10 +8,10 @@
 # CPP #
 [![C/C++ CI](https://github.com/Kowsik15/M1_Converters_Util/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Kowsik15/M1_Converters_Util/actions/workflows/c-cpp.yml)
 
-# C Make #
+# C Make 
 [![CMake](https://github.com/Kowsik15/M1_Converters_Util/actions/workflows/cmake.yml/badge.svg)](https://github.com/Kowsik15/M1_Converters_Util/actions/workflows/cmake.yml)
 
-## Folder Structure
+# Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
@@ -20,5 +20,5 @@ Folder             | Description
 `4_Test_plan`      | Documents with test plans and procedures
 
 
-# Plagrism report #
-[Plagerism](https://smallseotools.com/view-report/c99b43671cad8bc8dd2c4e45c920f0da)
+# Plagrism report 
+[Plagerism](https://smallseotools.com/view-report/f920a8745c6f782e61f183124884110f)
