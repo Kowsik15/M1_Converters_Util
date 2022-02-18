@@ -22,4 +22,4 @@ Folder             | Description
 
 
 # Plagrism report 
-[Plagerism](https://smallseotools.com/view-report/f920a8745c6f782e61f183124884110f)
+[![Plagerism](https://smallseotools.com/view-report/27b8eb7e4cf08a4cd2d3d75a337b6071)]
