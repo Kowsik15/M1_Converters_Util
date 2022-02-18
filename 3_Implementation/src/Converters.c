@@ -1,7 +1,4 @@
-#ifndef CONVERTERS_H_
-#define CONVERTERS_H_
-
-#include <stdio.h>
+#include "Converters.h"
 float fahrenheitToCelcius(float t1) { return ((9.0 / 5.0) * t1 + 32); }
 // function that stores the converted F->C;
 
@@ -22,6 +19,3 @@ float USDtoRMB(float c3) { return (c3 * 6.82); }
 float ounceToPounds(float m1) { return (m1 * 111.09); }
 // stores the converted Ounce->Pounds;
 float gramsToPounds(float m2) { return (m2 * 0.00220462); }
-// stores the converted Grams->Pounds;
-
-#endif
