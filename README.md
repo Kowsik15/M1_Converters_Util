@@ -20,6 +20,3 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 
-
-# Plagrism report 
-[Plagerism](file:///C:/Users/KOWSIK.S/Downloads/smallseotools-1645203281.pdf)
