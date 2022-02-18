@@ -3,6 +3,8 @@
 ![C/C++ CI - Build Status](https://api.codiga.io/project/31013/status/svg)
 # Unity testing
 [![Unit Testing - Unity](https://github.com/Kowsik15/M1_Converters_Util/actions/workflows/unity.yml/badge.svg)](https://github.com/Kowsik15/M1_Converters_Util/actions/workflows/unity.yml)
+# CI coverage
+[![Code Quality - CI-Coverage](https://github.com/Kowsik15/M1_Converters_Util/actions/workflows/gcov.yml/badge.svg)](https://github.com/Kowsik15/M1_Converters_Util/actions/workflows/gcov.yml)
 # Valgrind
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Kowsik15/M1_Converters_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Kowsik15/M1_Converters_Util/actions/workflows/Valgrind.yml)
 # Codacy 
